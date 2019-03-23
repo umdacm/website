@@ -2,4 +2,6 @@
 5-6pm Mondays in A. B. Anderson Hall 235
 
 ### Contact
-umdacm@umn.edu
+Email: umdacm@umn.edu
+Chat: [Slack](umdacm.slack.com)
+Lounge: 338 Heller Hall
