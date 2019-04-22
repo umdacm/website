@@ -3,5 +3,9 @@
 
 ### Contact
 Email: umdacm@umn.edu
-Chat: [Slack](umdacm.slack.com)
+
+Chat: [Slack](https://umdacm.slack.com)
+
+IRC: irc.umdacm.club
+
 Lounge: 338 Heller Hall
