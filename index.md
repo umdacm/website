@@ -1,5 +1,5 @@
 ### Meetings
-5-6pm Mondays in A. B. Anderson Hall 235
+6-7pm Tuesdays in Marshall W. Alworth Hall 191
 
 ### Contact
 Email: umdacm@umn.edu
